@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17836768.svg)](https://doi.org/10.5281/zenodo.17836768)
+
 # Voynich Unlock 🔑
 
 Voynich Unlock apresenta o **Método SEIS/OITO**: uma leitura numérica e estruturada do manuscrito. Onde muitos viram mistério insolúvel, mostramos um caminho claro e consistente — uma chave que começa a destravar o enigma.
