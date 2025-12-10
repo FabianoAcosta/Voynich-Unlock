@@ -29,5 +29,17 @@ Voynich Unlock apresenta o **Método SEIS/OITO**: uma leitura numérica e estrut
 - **SEIS/OITO:** primeira e quarta letra iguais; segunda e terceira diferentes, mas com “i” em comum.
 - **CT + marcador:** variantes gráficas reclassificadas como núcleo 4 (quatre) + índice (H, P, K, F, Z/Q).
 
+
+## Próximos passos
+
+Uma proposta de validação futura do método é aplicar a mesma lógica de reclassificação e leitura em colunas a textos medievais em occitano que
+contenham números por extenso. A ideia é "cifrar" esses manuscritosm conhecidos e verificar se a saída gerada apresenta padrões estatísticos
+semelhantes ao Voynich. 
+
+Esse processo de engenharia reversa permitiria comparar distribuições de tokens, entropias e matrizes de transição, fortalecendo a hipótese de que
+o método SEIS/OITO reproduz características estruturais do manuscrito.
+A execução dessa etapa depende da disponibilidade de corpus transcrito em occitano, e pode ser desenvolvida por colaboradores futuros.
+
+
 ## 📜 Licença
 MIT License.
